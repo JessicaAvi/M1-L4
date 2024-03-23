@@ -25,4 +25,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTIxODQxNjQ2MTk1ODIyMTg2OA.Gr_SGj.3XaAbBkcqD7UD50Svb_Sx-SPrGuMPGQuXGfB3Q")
+client.run("TOKEN DISINI")
